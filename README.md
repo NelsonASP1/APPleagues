@@ -2,7 +2,7 @@
 ## Librerias: ##
 
 Lifecycle extensions.
-Navigation
+Navigation.
 Retrofit.
 Glide.
 Gson.

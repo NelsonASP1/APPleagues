@@ -17,7 +17,7 @@
 
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.nelson.appleagues.Utils.CustomFragment"
+        android:name="com.nelson.appleagues.custom.CustomFragment"
         android:label="@string/app_name"
         tools:layout="@layout/custom_fragment">
 

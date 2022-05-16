@@ -1,4 +1,4 @@
-package com.nelson.appleagues.Utils
+package com.nelson.appleagues.custom
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
